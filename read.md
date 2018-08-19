@@ -8,3 +8,4 @@ we are hero!
 dev上四次修改
 在master分支上修改
 新建了一个dev分支
+在master上修改 dev上是否更新
